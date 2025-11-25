@@ -52,7 +52,8 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Dashboard
 *Dashboard* 
-<Img src="dashboard.png">
+<Img src="<img width="1097" height="631" alt="Dashboard" src="https://github.com/user-attachments/assets/0aeafc44-1a83-47b1-8f63-daa52ba737f4" />
+">
 - Statistik ringkasan inventory
 - Total Barang: 15 item
 - Kategori: 3 kategori
@@ -62,7 +63,8 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Manajemen Data Barang
 *Data Barang* 
-<Img src="sistem data_barang.png">
+<Img src="<img width="1108" height="644" alt="sistem data barang" src="https://github.com/user-attachments/assets/54f92986-f5a8-4702-ab3c-4c7909ea231a" />
+">
 - Tabel daftar barang dengan kolom lengkap:
 - Nama Barang
 - Kategori
@@ -74,7 +76,8 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Tambah Barang
 *Form Tambah Barang* 
-<Img src="tambah barang.png">
+<Img src="<img width="1220" height="639" alt="tambah barang" src="https://github.com/user-attachments/assets/915c14c0-ee03-43a8-8634-6b3629a99390" />
+">
 - Input data barang baru:
 - Nama Barang (text input)
 - Kategori (dropdown/select)
